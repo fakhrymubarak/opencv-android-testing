@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV</string>
+    <string name="btn_edge_detection">Edge Detection</string>
+    <string name="yolo">Yolo</string>
+</resources>
