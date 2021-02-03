@@ -1,10 +1,8 @@
 # Android Open CV Implementation
+[![OCV](https://img.shields.io/badge/OpenCV-3.4.10-green)](https://opencv.org/releases/)
 
-### Screenshot
-[Sample Image](https://github.com/fakhrymubarak/opencv-android-testing/blob/master/capture/record1.gif)
+## Features 
+- Live Canny (Edge Recognition)
 
-### Features 
-- Canny (Edge Recognition)
-
-### Download debug apk
-[Debug APK](https://github.com/fakhrymubarak/opencv-android-testing/blob/master/app/build/outputs/apk/debug/app-debug.apk)
+## Showcase
+![Sample](https://github.com/fakhrymubarak/opencv-android-testing/blob/master/capture/record1.gif)
